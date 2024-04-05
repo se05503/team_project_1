@@ -1,3 +1,82 @@
 <resources>
+    <!-- detail 페이지 string -->
     <string name="app_name">week3_sns_project</string>
+    <string name="title_name">게시물 제목</string>
+    <string name="post_text">게시물 내용</string>
+    <string name="post_textextend">더 보기</string>
+
+    <!-- home 페이지 string -->
+    <string name="bts">BTS</string>
+    <string name="btob">BTOB</string>
+    <string name="idle">IDLE</string>
+    <string name="content_tv">스타 게시판</string>
+    <string name="time_tv">15시간 전</string>
+    <string name="title_content_tv">방탄 카페 용산점에 왔어요</string>
+    <string name="title_content_tv2">비투비 콘서트 갔다왔어요!!</string>
+    <string name="post_tv1">게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1게시글 내용1</string>
+    <string name="post_tv2">게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2게시글 내용2</string>
+
+
+    <string name="home">홈</string>
+    <string name="mypage">마이페이지</string>
+    <string name="intro">안녕하세요&#160;</string>
+    <string name="nim">님!</string>
+    <string name="unknown">비회원</string>
+    <string name="no">선택 안함</string>
+
+
+    <!-- mypage 페이지 string -->
+    <string name="id">아이디 :</string>
+    <string name="name">이름 :</string>
+    <string name="artist">내 아티스트 :</string>
+    <string name="id_content">나의 아이디</string>
+    <string name="name_content">나의 이름</string>
+
+    <!-- BTS 페이지 string -->
+    <string name="bts_title">BTS</string>
+    <string name="bts_info1">소속사 : 빅히트 뮤직</string>
+    <string name="bts_info2">데뷔일 : 2013년 6월 13일</string>
+    <string name="bts_info3">BTS, 방탄소년단은 진, 슈가, 제이홉, RM, 지민, 뷔, 정국을 멤버로 총 일곱 명으로 구성된 보이그룹이다. 방탄소년단(防彈少年團)이란 이름에서 방탄은 \'총알을 막아낸다\'라는 뜻이 있다. 10대들이 살아가면서 겪는 힘든 일, 편견과 억압을 우리가 막아내겠다는 심오한 뜻을 담아냈다고 밝혔다. 방탄소년단이란 팀명 자체는 2010년에 이미 빅히트에서 내정됐었다</string>
+
+    <!-- BTOB 페이지 string -->
+    <string name="btob_title">BTOB</string>
+    <string name="btob_info1">소속사 : 비투비컴퍼니</string>
+    <string name="btob_info2">데뷔일 : 2012년 3월 21일</string>
+    <string name="btob_info3">BTOB는 서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재를 멤버로 총 여섯 명으로 구성된 보이그룹이다. 개그, 예능감, 드립력으로 이미지를 안드로메다로 보내는 그룹으로 개그 욕심이 상당해 누가누가 드립을 더 잘 치고, 더 웃길 수 있는지 경쟁하는 그룹으로 유명하다. 발라드돌, 보컬부자라는 수식어가 붙어 있는데 실제로도 비투비의 보컬라인은 보컬을 전공한 멤버들로 구성된만큼 보컬라인 간의 밸런스가 잘 잡혀있고 고음을 비롯해 기본기가 탄탄한 것이 특징이다.</string>
+
+    <!-- IDLE 페이지 string -->
+    <string name="idle_title">(G)I-DLE</string>
+    <string name="idle_info1">소속사 : 큐브엔터테이먼트</string>
+    <string name="idle_info2">데뷔일 : 2018년 5월 2일</string>
+    <string name="idle_info3">IDLE, 여자아이들은 미연, 민니, 소연, 우기, 슈화를 멤버로 총 다섯 명으로 구성된 걸그룹이다. 데뷔 초부터 흔치 않은 컨셉으로 인기몰이를 하며 데뷔 후 활동 20일 만에 음악 방송 1위, 음원 차트 상위권, 신인상 7관왕을 차지할 만큼 괴물 신인이었고, 라이엇게임즈의 이벤트성 그룹 K/DA 콜라보 활동 등을 통해 탄탄한 해외 팬덤을 가지고 있다. 또한 퀸덤에서 보여준 막내 걸그룹답지 않은 존재감과 무대 퍼포먼스, 뛰어난 실력을 기점으로 국내 팬덤 규모 또한 크게 성장하게 되면서 대세 걸그룹 중 한 팀으로 자리잡았다.</string>
+
+    <!-- signin/out 페이지 string -->
+    <string name="main_login_btn">로그인</string>
+    <string name="main_signup_btn">회원가입</string>
+
+    <string name="empty_info">입력하지 않은 정보가 존재합니다.</string>
+    <string name="request_info">정보를 전부 입력해 주세요.</string>
+    <string name="password_check">비밀번호가 서로 다릅니다!</string>
+    <string name="notice_missinfo">유효하지 않은 정보입니다!</string>
+
+    <string name="login_title_tv">로그인</string>
+    <string name="login_email_tv">이메일</string>
+    <string name="login_email_hint">이메일을 입력해주세요</string>
+    <string name="login_password_tv">비밀번호</string>
+    <string name="login_password_hint">비밀번호를 입력해주세요</string>
+    <string name="login_name_tv">이름</string>
+    <string name="login_name_hint">이름을 입력해주세요</string>
+    <string name="login_login_btn">로그인</string>
+
+    <string name="signup_title_tv">회원가입</string>
+    <string name="signup_email_tv">이메일</string>
+    <string name="signup_email_hint">이메일을 입력해주세요</string>
+    <string name="signup_password_tv">비밀번호</string>
+    <string name="signup_password_hint">비밀번호를 입력해주세요</string>
+    <string name="signup_checkpassword_tv">비밀번호 확인</string>
+    <string name="signup_checkpassword_hint">비밀번호를 다시 입력해주세요</string>
+    <string name="signup_name_tv">이름</string>
+    <string name="signup_name_hint">이름을 입력해주세요</string>
+    <string name="signup_signup_btn">회원가입</string>
+
 </resources>
